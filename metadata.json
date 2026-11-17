@@ -1,0 +1,6 @@
+{
+  "name": "Wildlife Monitoring and Research Assistant",
+  "description": "An intelligent workspace for analysing camera-trap images, verifying species identifications, and generating wildlife research reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
